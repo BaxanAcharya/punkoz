@@ -25,3 +25,7 @@
   color: rgb(7, 3, 22);
   margin-bottom: 0.5rem;
 }
+
+.link {
+  text-decoration: none;
+}
