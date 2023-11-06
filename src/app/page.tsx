@@ -7,7 +7,7 @@ export default function Home() {
 
       <h3 className={styles.soon}>We are coming very soon.</h3>
       <p className={styles.contact}>
-        Contact us at abc@gmail.com, xyz@gmail.com
+        Contact us at mailtohitmandu@gmail.com, 9801138122
       </p>
     </div>
   );
